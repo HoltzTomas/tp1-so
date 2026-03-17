@@ -1,0 +1,15 @@
+# Binaries
+master
+player
+view
+
+# Object files
+*.o
+
+# macOS
+.DS_Store
+*.dSYM/
+
+# IDE
+.vscode/
+.idea/
