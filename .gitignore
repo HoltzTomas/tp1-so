@@ -13,3 +13,6 @@ view
 # IDE
 .vscode/
 .idea/
+.
+# Clave
+.claude/
